@@ -41,4 +41,4 @@ The unittest can be run with `python3 -m unittest tests.6-max_integer_test`.
 - All tests should be executed by using this command: `python3 -m doctest ./tests/*`.
 
 ## Authors & Credits
-- [Olaoluwa ISOGUN](https://github.com/OlaoluwaISOGUN)
+- [OJOYE SAMSON](https://github.com/ojoye)
